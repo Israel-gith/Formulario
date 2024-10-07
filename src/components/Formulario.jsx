@@ -105,6 +105,7 @@ function Formulario() {
         }} 
         component="fieldset"
       >
+        
         <FormLabel sx={{textAlign: 'left', marginLeft: 15}}  >Género</FormLabel>
         <RadioGroup
                   row
